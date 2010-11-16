@@ -1,0 +1,12 @@
+<?PHP exit;?>	1287939078	admin	1	127.0.0.1		GET={diy=; }; POST={};
+<?PHP exit;?>	1287939078	admin	1	127.0.0.1	index	GET={diy=; }; POST={};
+<?PHP exit;?>	1287939082	admin	1	127.0.0.1	setting	GET={operation=basic; diy=; }; POST={};
+<?PHP exit;?>	1287939089	admin	1	127.0.0.1	nav	GET={operation=headernav; diy=; }; POST={};
+<?PHP exit;?>	1287939094	admin	1	127.0.0.1	album	GET={diy=; }; POST={};
+<?PHP exit;?>	1287939098	admin	1	127.0.0.1	pic	GET={diy=; }; POST={};
+<?PHP exit;?>	1287939098	admin	1	127.0.0.1	pic	GET={diy=; }; POST={};
+<?PHP exit;?>	1287939099	admin	1	127.0.0.1	comment	GET={diy=; }; POST={};
+<?PHP exit;?>	1287939102	admin	1	127.0.0.1	setting	GET={operation=basic; diy=; }; POST={};
+<?PHP exit;?>	1287939103	admin	1	127.0.0.1	index	GET={diy=; }; POST={};
+<?PHP exit;?>	1287939104	admin	1	127.0.0.1	setting	GET={operation=basic; diy=; }; POST={};
+<?PHP exit;?>	1287939106	admin	1	127.0.0.1	logout	GET={diy=; }; POST={};
