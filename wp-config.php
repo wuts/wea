@@ -16,7 +16,7 @@
 
 // ** MySQL 设置 - 具体信息来自您正在使用的主机 ** //
 /** WordPress 数据库的名称 */
-define('DB_NAME', 'wordpress');
+define('DB_NAME', 'wea');
 
 /** MySQL 数据库用户名 */
 define('DB_USER', 'root');
@@ -84,5 +84,9 @@ define('WP_DEBUG', false);
 if ( !defined('ABSPATH') )
     define('ABSPATH', dirname(__FILE__) . '/');
 
+//enable wp-cache
+define('WP_CACHE', true);
+
 /** 设置 WordPress 变量和包含文件。 */
 require_once(ABSPATH . 'wp-settings.php');
+
