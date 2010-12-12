@@ -64,9 +64,11 @@
 /* Options */
 
 body #page{background:#FFFFFF;}
+h1, h2, h3, h4, h5, h6, h1 a, h2 a, h3 a, h4 a, h5 a, .fpost .post-title h2 a{color:#000000;}
+a, #subnav_row li.current_page_item a, #subnav_row li a:hover, #grandchildnav .current_page_item > a, .branding h1 a:hover, .post-comments a:hover, .bbcrumb a:hover, 	#feature_slider .fcontent.fstyle-lightbg a, #feature_slider .fcontent.fstyle-nobg a{color:#225E9B;}
 
 
 /* Custom CSS */
 
-
+body{}
 
